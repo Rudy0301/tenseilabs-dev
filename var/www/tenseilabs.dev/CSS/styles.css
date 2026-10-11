@@ -1,0 +1,35 @@
+
+body {
+    background-image: url("../images/BlackCarbonFiber.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	min-height: 100vh
+}
+.topnav-right a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00ff00e3;
+    color: white;
+    text-decoration: none;
+	font-family:Copperplate, Papyrus, fantasy;
+    border-radius: 2px;
+	
+}
+
+.topnav-right a:hover {
+    background-color: #00ff00a3;
+}
+
+.topnav-right{
+	float: right;
+}
+
+.WebsiteName {
+	text-decoration: none;
+	padding:30px;
+	padding-top: 10px;
+	color: #00ff00a3;
+	font-size: 30px;
+	font-family: Copperplate, Papyrus, fantasy;
+}
